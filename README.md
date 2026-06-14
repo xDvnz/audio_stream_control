@@ -29,9 +29,11 @@ Proyek ini awalnya dikembangkan sebagai Tugas Akhir pada program studi Teknik Te
 1. Buka folder `esp32-audiostream` menggunakan Arduino IDE atau PlatformIO.
 2. Sesuaikan kredensial Wi-Fi (`SSID` dan `PASSWORD`) serta alamat IP *Broker* MQTT pada *source code*.
 3. *Compile* dan *Upload* kode ke board ESP32.
-
 ### 2. Persiapan Perangkat Lunak (Python)
 1. Pastikan Python 3 sudah terinstal di sistem Anda.
 2. Instal *library* yang dibutuhkan dengan menjalankan perintah:
    ```bash
    pip install -r requirements.txt
+
+## 🖼️ Alat
+![Tampak Depan](assets/depan.png)
