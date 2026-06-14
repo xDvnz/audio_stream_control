@@ -13,15 +13,14 @@ Proyek ini awalnya dikembangkan sebagai Tugas Akhir pada program studi Teknik Te
 
 ## 🛠️ Perangkat & Teknologi
 
-* **Perangkat Keras:** ESP32 Development Board, [Sebutkan modul audio/amplifier yang digunakan, misal: MAX98357A I2S], [Sebutkan tipe speaker].
+* **Perangkat Keras:** ESP32 Development Board, [TTGO Mini32 Expansion Board PSRAM 4MB],[STA540]
 * **Perangkat Lunak:** Python 3.x, Arduino IDE / PlatformIO.
-* **Protokol & Pustaka:** MQTT (Message Queuing Telemetry Transport), [Sebutkan library Python yang digunakan, misal: paho-mqtt], [Sebutkan library ESP32].
+* **Protokol & Pustaka:** MQTT (Message Queuing Telemetry Transport), [paho-mqtt, sys, subprocess, platform, ssl], [ESP8266 Audio].
 
 ## 📂 Struktur Repositori
 
 * `esp32.py`: Skrip utama Python untuk mengontrol sistem dan mempublikasikan perintah MQTT.
 * `esp32-audiostream/`: Direktori berisi *source code* (C++/Arduino) yang di-*flash* ke perangkat ESP32.
-* `[Nama folder/file lain]`: [Penjelasan singkat, misalnya berisi skema rangkaian].
 
 ## ⚙️ Cara Instalasi & Penggunaan
 
