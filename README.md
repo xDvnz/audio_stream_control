@@ -36,4 +36,4 @@ Proyek ini awalnya dikembangkan sebagai Tugas Akhir pada program studi Teknik Te
    pip install -r requirements.txt
 
 ## 🖼️ Alat
-![Tampak Depan](assets/depan.png)
+![Tampak Depan](assets/hasil/depan.jepg)
